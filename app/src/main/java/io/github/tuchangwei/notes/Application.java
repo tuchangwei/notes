@@ -15,5 +15,6 @@ public class Application extends com.activeandroid.app.Application {
         //ActiveAndroid.dispose();
         //初始化数据库
         ActiveAndroid.initialize(this);
+        
     }
 }
